@@ -1,7 +1,7 @@
-# 📘 GeeksforGeeks Python Solutions  
+# 📘 Python Solutions  
 ### # PALB-1_Python-Programming-
 
-This repository contains **Python solutions to GeeksforGeeks problems**, implemented as part of the **PALB-1 Python Programming course**, as instructed by our Python instructor.
+This repository contains **Python solutions to GeeksforGeeks problems & LeetCode**, implemented as part of the **PALB-1 Python Programming course**, as instructed by our Python instructor.
 
 The goal of this repository is to:
 - Practice core Python concepts
